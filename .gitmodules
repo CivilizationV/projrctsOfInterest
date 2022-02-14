@@ -1,15 +1,3 @@
-[submodule "java-projects/CS-Notes"]
-	path = java-projects/CS-Notes
-	url = https://github.com/CyC2018/CS-Notes.git
-[submodule "java-projects/JavaGuide"]
-	path = java-projects/JavaGuide
-	url = https://github.com/Snailclimb/JavaGuide.git
-[submodule "java-projects/advanced-java"]
-	path = java-projects/advanced-java
-	url = https://github.com/doocs/advanced-java.git
-[submodule "java-projects/LeetCodeAnimation"]
-	path = java-projects/LeetCodeAnimation
-	url = https://github.com/MisterBooo/LeetCodeAnimation.git
 [submodule "java-projects/java-design-patterns"]
 	path = java-projects/java-design-patterns
 	url = https://github.com/iluwatar/java-design-patterns.git
