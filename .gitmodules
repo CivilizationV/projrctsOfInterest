@@ -28,3 +28,6 @@
 [submodule "java-projects/spring-boot"]
 	path = java-projects/spring-boot
 	url = https://github.com/spring-projects/spring-boot.git
+[submodule "java-projects/spring-framework"]
+	path = java-projects/spring-framework
+	url = https://github.com/spring-projects/spring-framework.git
