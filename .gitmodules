@@ -4,18 +4,9 @@
 [submodule "python-projects/system-design-primer"]
 	path = python-projects/system-design-primer
 	url = https://github.com/donnemartin/system-design-primer.git
-[submodule "c-projects/redis"]
-	path = c-projects/redis
-	url = https://github.com/redis/redis.git
 [submodule "java-projects/Java"]
 	path = java-projects/Java
 	url = https://github.com/TheAlgorithms/Java.git
 [submodule "java-projects/interviews"]
 	path = java-projects/interviews
 	url = https://github.com/kdn251/interviews.git
-[submodule "java-projects/spring-boot"]
-	path = java-projects/spring-boot
-	url = https://github.com/spring-projects/spring-boot.git
-[submodule "java-projects/spring-framework"]
-	path = java-projects/spring-framework
-	url = https://github.com/spring-projects/spring-framework.git
