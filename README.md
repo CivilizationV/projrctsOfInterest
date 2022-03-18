@@ -18,6 +18,7 @@
 + [elasticsearch](https://github.com/elastic/elasticsearch.git)
 + [guava](https://github.com/google/guava.git)
 + [netty](https://github.com/netty/netty.git)
++ [dubbo](https://github.com/apache/dubbo.git)
 + [arthas](https://github.com/alibaba/arthas.git)
 + [kafka](https://github.com/apache/kafka.git)
 
