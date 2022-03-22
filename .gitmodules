@@ -10,3 +10,6 @@
 [submodule "java-projects/interviews"]
 	path = java-projects/interviews
 	url = https://github.com/kdn251/interviews.git
+[submodule "python-projects/Python"]
+	path = python-projects/Python
+	url = https://github.com/TheAlgorithms/Python.git
