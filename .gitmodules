@@ -13,3 +13,6 @@
 [submodule "python-projects/Python"]
 	path = python-projects/Python
 	url = https://github.com/TheAlgorithms/Python.git
+[submodule "c-projects/C"]
+	path = c-projects/C
+	url = https://github.com/TheAlgorithms/C.git
