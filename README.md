@@ -7,6 +7,7 @@
 + [redis](https://github.com/redis/redis.git)
 + [git](https://github.com/git/git.git)
 + [curl](https://github.com/curl/curl.git)
++ [tmux](https://github.com/tmux/tmux.git)
 + [nginx](https://github.com/nginx/nginx.git)
 + [memcached](https://github.com/memcached/memcached.git)
 
