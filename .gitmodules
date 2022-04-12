@@ -16,3 +16,6 @@
 [submodule "c-projects/C"]
 	path = c-projects/C
 	url = https://github.com/TheAlgorithms/C.git
+[submodule "java-projects/tutorials"]
+	path = java-projects/tutorials
+	url = https://github.com/eugenp/tutorials.git

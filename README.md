@@ -18,8 +18,8 @@
 + [spring-framework](https://github.com/spring-projects/spring-framework.git)
 + [elasticsearch](https://github.com/elastic/elasticsearch.git)
 + [guava](https://github.com/google/guava.git)
-+ [netty](https://github.com/netty/netty.git)
 + [dubbo](https://github.com/apache/dubbo.git)
++ [netty](https://github.com/netty/netty.git)
 + [arthas](https://github.com/alibaba/arthas.git)
 + [kafka](https://github.com/apache/kafka.git)
 
