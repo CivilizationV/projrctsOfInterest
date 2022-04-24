@@ -6,6 +6,7 @@
 + [linux](https://github.com/torvalds/linux.git)
 + [redis](https://github.com/redis/redis.git)
 + [git](https://github.com/git/git.git)
++ [FFmpeg](https://github.com/FFmpeg/FFmpeg.git)
 + [curl](https://github.com/curl/curl.git)
 + [tmux](https://github.com/tmux/tmux.git)
 + [nginx](https://github.com/nginx/nginx.git)
@@ -27,6 +28,8 @@
 ## Interesting Python Projects
 
 + [django](https://github.com/django/django.git)
++ [flask](https://github.com/pallets/flask.git)
++ [scrapy](https://github.com/scrapy/scrapy.git)
 
 
 ## Interesting C++ Projects
