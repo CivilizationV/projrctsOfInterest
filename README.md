@@ -11,6 +11,7 @@
 + [tmux](https://github.com/tmux/tmux.git)
 + [nginx](https://github.com/nginx/nginx.git)
 + [memcached](https://github.com/memcached/memcached.git)
++ [jq](https://github.com/stedolan/jq.git)
 
 
 ## Interesting Java Projects
