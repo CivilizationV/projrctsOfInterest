@@ -19,3 +19,6 @@
 [submodule "java-projects/tutorials"]
 	path = java-projects/tutorials
 	url = https://github.com/eugenp/tutorials.git
+[submodule "java-projects/LeetCodeAnimation"]
+	path = java-projects/LeetCodeAnimation
+	url = https://github.com/MisterBooo/LeetCodeAnimation.git
