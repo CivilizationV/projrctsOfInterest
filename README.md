@@ -46,6 +46,12 @@
 + [mongo](https://github.com/mongodb/mongo.git)
 
 
+## Other Interesting Projects
+
++ [tldr](https://github.com/tldr-pages/tldr.git)
++ [linux-command](https://github.com/jaywcjlove/linux-command.git)
+
+
 ## Projects For Interview
 
 + [CS-Notes](https://github.com/CyC2018/CS-Notes.git)
